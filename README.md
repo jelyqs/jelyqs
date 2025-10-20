@@ -1,7 +1,65 @@
-# Hi there, I'm [Tên của bạn] 👋
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
+</div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/[tên-người-dùng-linkedin-của-bạn])
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=React&logoColor=white&link=https://your-portfolio-website.com)](https://[trang-web-portfolio-của-bạn])
+<h1 align="center">Hi there 👋, I'm Thu Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/thu-nguyen-69aa35245" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/84359399320" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  
+  <!-- LINE -->
+  <a href="https://line.me/ti/p/[id-hoặc-mã-line-của-bạn]" target="_blank">
+    <img src="https://img.shields.io/badge/LINE-00C300?style=flat-square&logo=line&logoColor=white" alt="LINE">
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:jely.big@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/jelyqs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/Jely.Big" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <!-- Zalo -->
+  <a href="https://zalo.me/84359399320" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=flat-square&logo=Zalo&logoColor=white" alt="Zalo">
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/@jelyqs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@[kênh-youtube-của-bạn]" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/NguynPhcThu1" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://thunguyenit.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
 ---
 
@@ -14,7 +72,7 @@ My expertise spans the full stack, from creating intuitive user interfaces with 
 - 🔭 I’m currently working on building scalable microservices and enhancing cloud infrastructure.
 - 🌱 I’m currently learning more about Serverless Architecture and advanced CI/CD pipelines.
 - 💬 Ask me about **Laravel, React, NodeJS, AWS**, or anything related to web development!
-- 📫 How to reach me: **[email-của-bạn@example.com]**
+- 📫 How to reach me: **jely.big@gmail.com**
 - ⚡ Fun fact: I believe the best code is simple, elegant, and easy to maintain.
 
 ---
@@ -36,7 +94,7 @@ A glimpse into the technologies I work with daily:
 
 ### 📊 My GitHub Stats
 
-![Your's GitHub stats](https://github-readme-stats.vercel.app/api?username=[tên-github-của-bạn]&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[tên-github-của-bạn]&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Your's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelyqs&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelyqs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
